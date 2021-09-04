@@ -1,4 +1,6 @@
 # QML
+PLEASE: Download as a ZIP folder by using the green button.
+
 part_1 folder contains three files:
 
 1. issyp_mentoring contains the tutorial I created as a mentor for three cohorts of high school students. It provides hands-on problems that increase in difficulty to learn the basics of the gauge-gravity correspondence. The problems are kept at a high-school level, with differential calculus and basic matrix algebra being the most advanced topics required.
