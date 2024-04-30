@@ -1,5 +1,4 @@
 # QML
-PLEASE: Download as a ZIP folder by using the green button.
 
 part_1 folder contains three files:
 
